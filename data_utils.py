@@ -105,4 +105,5 @@ with open("data_prepared.pkl", "wb") as f:
         "X_test": X_test, "y_test": y_test
     }, f)
 
-print("✅ Done — data_prepared.pkl saved")
+print("Done — data_prepared.pkl saved")
+
